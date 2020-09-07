@@ -1,0 +1,215 @@
+﻿Timestamp,Gender,Country of residence,Location of residence:,Number of years of education,Education,Domain of studies,Profession,Work (Full time/ part time/ not working),Marital state: Married or with partner,Domain of studies,Number of children,Age of children,How many applications that are being used do you have in your smartphone/cellular phone?,"Do you use your smartphone/cellular phone for activities that can be performed also with other means, for example, camera, calculator, 0tes, reading book, payments?",Do you go to bed with the smartphone / cellular phone at your side?,Do you use your smartphone/cellular phone in the middle of the night?,"Do you use your smartphone/cellular phone in parallel with other activities, such as driving, cooking, watching TV?",Do you take your smartphone/cellular phone with you to the restroom?,"Frequency of using the smartphone/cellular phone: on the average, how many times do you use it each hour during the day?",Do you use the location-based services of the smartphone/cellular phone?,"How many social networks (e.g. facebook, twitter) are defined on your smartphone/cellular phone?",Do you consider the smartphone/cellular phone an indispensable tool for your work?,Do you consider the smartphon/cellular phone an indispensable tool for your social life?,Do you consider yourself as addicted to the use of the smartphone/cellular phone?,[A general sense of good physical health],[Pain],"[Work (outside the home or in the home, including household)]",[Activity (outside the home or inside the home. not including work activity)],"[Strength and ability to perform the activities of eating, sleeping, etc. ]","[Strength and ability to perform activities in the family (as a partner, parent, sibling, son/daughter)]",[Intimate relations with partner],"[Relations with friends,  acquaintances, relatives]",[Taking care of yourself and your external appearance],[Strength and ability to cope with the tasks of everyday life],[Independence  in functioning and activity in daily life],"[Sense of lack of control over situations, feeling that you cannot determine anything about what happens]",[Ability to concentrate on the task you are performing],"[Ability to think, solve problems]","[Sense of uncertainty, unclarity]","[Anxiety, fear]","[Depression, sadness]","[Tension, restlessness]",[Hope],[Pleasure],"[Mnotivation to make efforts, to continue doing things]",[Satisfaction of life in general]
+4/28/2015 12:53:27,female,USA,Other,16,University: Bachelor's degree,English,county government clercal,Do not working,2,English,2,33; 41,10,1,0,1,2,1,1,1,1,0,0,1,1,1,2,2,2,2,0,3,3,2,3,3,3,3,3,3,3,2,2,2,2,3
+4/28/2015 13:05:10,male,United Kingdom,City,17,Professional school,Accounting,Sales Assistant,Patial,0,Accounting,0,0,10,2,0,0,0,1,5,0,2,1,1,1,1,1,3,2,2,2,0,1,2,2,2,2,2,2,0,0,0,1,1,1,2,0
+4/28/2015 13:55:40,male,India,City,21,Master's degree,Business,IT,Full time,0,Business,0,0,80,2,0,2,1,1,8,2,2,1,1,1,2,2,2,3,2,2,0,1,1,2,1,1,2,1,2,3,3,3,0,2,1,1
+4/28/2015 14:41:13,female,United States,Suburb,16,University: Bachelor's degree,Education,Office manager,Full time,2,Education,1,11,5,1,0,2,2,0,2,1,1,0,0,2,3,2,2,2,3,3,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/28/2015 16:02:54,male,USA,Village,14,Professional school,Business Management,Hospitality,Do not working,0,Business Management,0,0,16,2,1,2,1,1,2,2,3,0,1,2,2,2,2,2,2,2,2,2,3,3,3,2,3,3,2,2,2,2,2,2,3,2
+4/29/2015 12:23:16,male,USA,Suburb,14,Professional school,physical therapy,student,Patial,0,physical therapy,0,0,15,2,0,0,0,1,5,1,1,0,0,1,3,2,2,2,2,2,0,2,3,2,3,2,2,2,1,2,2,1,2,2,2,2
+4/29/2015 12:47:17,male,USA,City,14,Professional school,Massage Therapy,Massage Therapy,Full time,2,Massage Therapy,0,0,14,1,0,2,1,1,10,0,1,1,1,2,2,3,3,3,3,3,3,3,3,3,3,0,3,3,3,3,3,3,3,2,3,3
+4/29/2015 13:16:25,male,United States,Village,14,Secondary school,Psychology,IT,Full time,2,Psychology,1,23,10,1,0,2,1,1,6,0,1,1,0,2,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,2,3,2,2,3,3,3
+4/29/2015 13:26:25,female,United States,City,16,University: Bachelor's degree,Psychology,Consultant,Full time,0,Psychology,0,0,8,1,0,1,2,0,1,1,1,1,1,2,2,1,3,3,2,2,0,2,3,2,2,2,2,2,1,1,1,1,2,1,2,2
+4/29/2015 13:49:09,male,USA,City,12,Secondary school,general,self-employed,Patial,0,general,0,0,2,0,1,2,2,0,2,0,1,0,0,2,3,2,2,2,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2
+4/29/2015 14:03:50,female,USA,City,14,Professional school,Language,Artist,Full time,0,Language,1,41,65,2,0,2,2,0,1,1,1,1,0,1,2,1,3,3,3,3,0,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2
+4/29/2015 14:21:20,male,United States,Village,14,Secondary school,political science,jewelry designer,Patial,2,political science,1,9,25,2,0,1,2,1,2,1,1,1,1,2,2,2,1,2,2,2,3,2,2,2,3,2,3,3,2,2,2,2,1,1,2,1
+4/29/2015 14:41:49,female,USA,City,13,Secondary school,general,retail manager,Full time,2,general,4,15; 11; 10; 5,26,2,0,1,1,1,4,2,3,1,1,1,2,2,3,3,3,3,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,2
+4/29/2015 14:50:20,female,USA,City,15,Professional school,Healthcare,CNA,Full time,2,Healthcare,3,"6,12,15",25,1,1,2,1,1,2,1,2,0,0,1,2,1,3,3,3,3,2,2,2,3,3,2,2,2,2,2,1,1,2,2,3,2
+4/29/2015 14:51:09,female,united states,City,15,Professional school,graphic design,graphic designer,Full time,2,graphic design,2,1; 22,15,2,1,1,1,1,10,2,3,1,1,2,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/29/2015 14:54:07,male,USA,City,14,Secondary school,Communications,Retail Cashier,Full time,0,Communications,3,"13, 14, 17",50,2,1,1,2,1,4,1,3,0,0,2,3,2,3,3,3,3,1,2,2,3,3,1,3,3,1,1,1,1,2,2,2,2
+4/29/2015 15:09:12,female,USA,City,15,Secondary school,Accounting,Housewife,Do not working,2,Accounting,1,2.5 months,50,2,0,1,1,1,7,0,1,0,1,2,1,2,3,3,2,3,1,1,1,2,3,1,2,2,2,2,2,2,3,2,3,2
+4/29/2015 15:18:12,female,USA,City,14,Professional school,Science & Tech0logy,Sales,Patial,2,Science & Tech0logy,1,4,30,2,0,0,1,1,10,0,4,1,1,1,1,3,2,1,2,3,2,1,1,2,2,2,3,3,2,1,2,2,3,2,3,2
+4/29/2015 15:29:06,female,USA,Other,14,Professional school,Administrative,Administrative,Full time,0,Administrative,0,0,30,2,1,2,1,0,1,0,2,1,1,2,3,3,3,3,3,3,0,3,3,3,3,3,3,3,0,2,3,2,3,3,3,3
+4/29/2015 16:09:34,male,India,Suburb,18,University: Bachelor's degree,Commerce,Sales Supervisor,Full time,2,Commerce,2,"""9;13""",8,1,0,1,0,2,3,2,2,1,1,0,2,3,2,2,3,3,2,3,2,3,3,2,3,3,0,3,3,3,2,2,3,3
+4/29/2015 16:21:46,male,India,City,21,Master's degree,Social Sciences,Human Resources,Full time,2,Social Sciences,1,8,6,1,0,1,1,0,6,1,3,1,1,1,2,2,3,2,3,3,2,2,2,3,2,2,3,3,2,2,3,2,3,2,3,2
+4/29/2015 17:02:26,female,US,Suburb,16,University: Bachelor's degree,biology,nanny,Patial,2,biology,3,"21,24,27",19,2,0,2,1,0,3,1,1,1,0,2,3,3,2,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/29/2015 17:07:37,female,USA,City,16,Professional school,Computer Science Tech0logy,n/a,Patial,0,Computer Science Tech0logy,0,,8,2,0,1,2,1,5,2,1,0,1,2,2,2,2,1,2,0,0,0,2,2,2,1,2,2,2,2,1,2,2,2,2,2
+4/29/2015 17:24:05,female,USA,City,14,Professional school,Nursing,Service,Patial,2,Nursing,2,"""17"" ""28""",10,1,0,2,2,0,10,1,5,0,1,2,1,1,2,2,2,2,3,2,2,2,2,2,3,3,2,2,2,2,2,2,2,2
+4/29/2015 17:42:20,female,USA,Suburb,13,Secondary school,General Education,Commission sales associate,Full time,2,General Education,2,"9, 6",5,2,0,0,0,1,1,0,2,1,1,0,1,2,3,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1
+4/29/2015 17:43:12,male,USA,Suburb,16,University: Bachelor's degree,Business Administration,Account Manager,Full time,0,Business Administration,0,0,12,1,0,1,1,1,3,1,2,0,1,1,2,3,2,2,2,2,1,3,2,2,3,2,2,2,2,1,1,2,2,1,2,2
+4/29/2015 17:46:50,female,USA,City,16,University: Bachelor's degree,Biology,inside engineering,Full time,2,Biology,0,0,15,1,0,2,2,1,0.5,1,2,0,0,2,3,3,3,3,3,3,3,2,2,3,3,3,3,3,3,2,2,3,3,3,3,3
+4/29/2015 17:55:50,female,United States,Other,14,Professional school,Medical Information Tech0logy,Unemployed,Do not working,0,Medical Information Tech0logy,0,0,20,2,0,0,0,2,2,1,1,0,1,1,3,3,2,3,3,3,3,2,3,3,3,3,3,3,1,1,1,1,2,2,3,1
+4/29/2015 18:22:09,female,United States,City,13,Secondary school,general,stay at home mom,Do not working,2,general,2,"3, 10",20,2,0,1,1,1,5,2,3,1,1,1,2,2,2,3,3,3,2,1,2,3,3,2,3,3,2,1,1,1,2,1,2,2
+4/29/2015 18:24:45,female,USA,City,12,Secondary school,Business,Data Entry,Full time,0,Business,0,0,5,2,1,2,2,0,1,1,2,0,0,2,3,3,3,2,2,2,2,2,3,3,3,0,3,3,3,2,2,2,2,2,1,2
+4/29/2015 18:52:11,female,United States,Suburb,16,University: Bachelor's degree,Computer Science,Office Manager,Patial,2,Computer Science,0,0,20,1,1,1,1,1,3,0,1,1,1,1,2,1,3,3,2,2,1,2,1,1,2,1,1,2,2,2,2,1,1,1,1,1
+4/29/2015 19:34:01,female,USA,Suburb,14,Secondary school,Accounting,ACCOUNTING CLERK,Do not working,2,Accounting,2,"8,10",23,2,0,2,1,1,3,2,1,0,1,1,3,2,0,2,2,3,2,2,3,3,2,2,2,3,2,2,2,2,2,2,3,2
+4/29/2015 21:24:39,female,United States of America,City,14,Secondary school,General,Retail Associate,Full time,2,General,2,"4,8",10,1,1,1,1,2,2,1,2,0,0,2,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3
+4/29/2015 22:23:44,male,US,Village,16,University: Bachelor's degree,Business,manager,Full time,0,Business,0,0,120,1,1,1,1,1,3,2,4,0,1,1,3,3,3,2,3,2,3,3,2,3,3,2,3,3,3,3,3,2,3,3,3,3
+4/29/2015 22:42:16,male,USA,City,16,University: Bachelor's degree,psychology,insurance processor,Full time,0,psychology,0,0,5,1,1,1,1,1,1,1,1,1,1,2,1,1,3,1,2,0,0,1,1,2,2,0,2,2,0,0,0,0,0,1,2,1
+4/29/2015 23:56:01,female,Canada,City,16,University: Bachelor's degree,Edcation,Teacher,Full time,2,Edcation,1,6,3,1,1,2,2,0,0,1,0,0,0,2,3,2,2,2,3,3,2,2,3,3,3,3,3,3,2,2,3,2,3,2,3,3
+4/30/2015 1:24:13,female,USA,Suburb,12,Secondary school,HIgh School,virtual assistant,Patial,2,HIgh School,2,"""9"" ""14""",12,1,0,0,1,1,2,1,3,0,1,1,2,2,2,1,3,3,3,2,2,3,3,2,1,2,1,3,3,3,2,3,3,3
+4/30/2015 1:51:27,female,United States,Suburb,16,University: Bachelor's degree,Accounting,Quality Control Verifications,Patial,2,Accounting,2,13;14,6,2,0,1,1,1,5,2,2,1,1,2,1,3,3,2,2,3,1,1,2,2,2,3,3,3,3,3,3,3,2,2,2,2
+4/30/2015 2:00:03,male,usa,City,14,Secondary school,psychology,transcriber,Full time,0,psychology,0,0,3,2,1,2,2,0,15,2,2,0,1,2,2,2,3,2,1,1,3,2,2,2,2,2,2,2,1,0,0,2,2,2,2,2
+4/30/2015 3:58:34,male,USA,City,16,University: Bachelor's degree,Communications,0ne,Do not working,0,Communications,0,0,1,0,1,2,2,0,0,0,0,0,0,2,1,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+4/30/2015 5:33:38,male,India,Suburb,16,University: Bachelor's degree,Electronics,Computer Science Hardware Engineer,Full time,0,Electronics,0,0,4,2,1,1,1,2,2,1,4,1,1,1,2,2,3,2,3,3,2,2,3,3,3,2,3,2,2,3,3,2,3,3,2,3
+4/30/2015 6:50:16,male,USA,City,12,Secondary school,N/A,Construction,Full time,0,N/A,0,0,6,2,0,2,1,0,5,1,2,1,1,1,3,3,3,2,2,1,1,2,3,3,3,3,3,3,3,3,3,3,2,2,3,3
+4/30/2015 12:36:48,female,USA,Suburb,16,University: Bachelor's degree,Business,Medical Administration,Full time,2,Business,2,"12, 18",16,1,1,2,1,1,1,1,2,0,1,2,2,3,3,2,3,3,3,2,2,2,3,2,2,2,2,2,2,2,2,2,3,2
+4/30/2015 16:01:34,male,United States,Suburb,16,University: Bachelor's degree,Accounting,Retail associate,Patial,0,Accounting,0,0,7,1,0,2,1,1,3,2,2,0,1,2,2,2,2,2,2,3,1,2,2,2,2,2,2,2,2,1,3,2,2,2,2,2
+4/30/2015 18:21:05,male,Usa,City,16,University: Bachelor's degree,Finance,Financial Advisor,Full time,0,Finance,0,0,14,2,0,1,1,1,3,1,2,0,1,2,3,2,2,2,3,3,2,2,3,3,3,3,3,3,2,3,2,2,2,2,2,2
+4/30/2015 19:02:26,male,USA,Suburb,14,Secondary school,AA,Unemployed,Do not working,2,AA,0,NA,10,1,0,1,2,2,45,1,0,0,1,1,2,3,2,2,3,2,3,2,3,3,3,3,3,3,2,2,2,2,2,2,2,2
+4/30/2015 20:58:29,female,USA,Other,12,Secondary school,0ne,Small Business Owner,Patial,2,0ne,2,24;27,1,1,1,2,2,1,0,0,1,0,0,2,3,1,2,2,3,3,2,2,3,3,3,2,3,3,2,2,3,2,2,2,3,2
+05/01/2015 04:08,female,USA,City,16,University: Bachelor's degree,Humanities,Writer,Full time,2,Humanities,0,,2,2,1,2,2,0,1,1,1,0,0,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+05/01/2015 15:42,female,United States,City,16,University: Bachelor's degree,Accounting,Human Resources Associate,Full time,0,Accounting,0,0,33,2,0,1,1,1,2,1,2,0,1,1,2,2,3,2,3,3,3,3,2,3,3,2,2,3,1,1,2,1,2,2,3,2
+05/01/2015 22:57,female,United States,City,16,University: Bachelor's degree,Eco0mics,Costume designer,Full time,0,Eco0mics,0,0,5,2,0,1,1,0,1,2,1,1,1,1,2,2,2,2,2,2,0,2,2,2,2,1,2,2,1,2,2,1,1,2,2,2
+05/02/2015 05:47,male,USA,Suburb,17,University: Bachelor's degree,Biology/Health Sciences,Grad Student,Patial,0,Biology/Health Sciences,0,0,25,1,1,1,2,1,6,0,0,0,1,2,3,3,2,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+05/02/2015 18:35,male,Macedonia,City,16,University: Bachelor's degree,Civil Engineering,civil engineer,Full time,2,Civil Engineering,1,3,4,2,0,0,1,2,20,2,1,1,1,0,2,2,2,3,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+05/02/2015 20:44,female,USA,Suburb,16,Secondary school,English,writer,Full time,0,English,0,0,3,1,1,2,2,1,1,1,2,1,0,2,3,2,3,2,2,2,2,2,2,2,2,2,3,3,2,2,2,2,3,3,3,3
+05/03/2015 02:19,male,USA,Suburb,13,Secondary school,Schooling,Cabinet Manufaturing,Full time,0,Schooling,0,0,15,2,0,1,1,1,30,1,4,1,1,2,2,1,3,2,2,2,0,1,3,2,2,1,3,3,1,1,1,1,2,2,2,2
+05/03/2015 04:16,female,USA,Other,19,Master's degree,PSYCHOLOGY,CASE MANAGER,Full time,0,PSYCHOLOGY,0,0,15,2,1,2,1,0,1,1,5,0,0,2,2,2,2,1,3,2,0,2,1,3,3,3,3,3,3,3,3,3,3,2,3,3
+05/03/2015 04:56,male,USA,Suburb,18,Master's degree,History,Self-employed,Full time,0,History,0,0,7,1,1,2,1,1,2,1,1,1,1,1,2,3,3,1,3,3,3,1,2,3,3,3,3,3,2,3,3,3,3,3,3,2
+05/03/2015 17:31,male,United States,City,16,University: Bachelor's degree,History,Car Sales,Full time,0,History,1,3,6,2,0,0,1,1,10,1,2,1,1,2,3,3,3,3,3,3,3,2,3,2,2,2,2,2,3,3,3,2,3,3,2,2
+05/03/2015 17:31,male,United States,Suburb,16,University: Bachelor's degree,English,Unemployed,Do not working,0,English,0,0,6,2,0,1,1,1,5,1,2,0,1,0,1,2,1,1,2,2,0,1,1,1,1,2,2,2,1,2,2,1,1,0,2,1
+05/03/2015 17:32,male,United States,City,13,Secondary school,Music Composition,Retail,Full time,0,Music Composition,0,0,10,1,0,2,2,1,4,1,1,0,1,2,3,2,2,2,3,2,1,1,3,3,3,3,3,3,2,3,1,2,2,2,3,2
+05/03/2015 17:32,female,United States,Suburb,16,University: Bachelor's degree,psychology,manager,Full time,2,psychology,0,0,5,2,0,2,0,2,6,2,4,1,1,0,2,2,3,3,3,3,2,2,2,3,3,3,3,3,3,2,2,2,1,1,2,2
+05/03/2015 17:33,male,United States,Suburb,13,Professional school,Graphic Design,Student,Do not working,0,Graphic Design,0,0,8,2,0,1,1,1,4,2,4,0,1,1,3,3,2,3,3,2,3,3,3,2,3,3,3,3,2,2,1,2,2,2,3,2
+05/03/2015 17:33,male,india,Suburb,18,Secondary school,1,1,Full time,2,1,1,10,1,1,0,0,0,2,1,2,2,1,1,0,3,1,3,2,3,2,3,2,3,2,3,1,3,2,0,1,0,1,3,2,3,2
+05/03/2015 17:34,male,United States,Village,16,University: Bachelor's degree,Business,Golf Course Superintendent,Patial,2,Business,2,35;32,11,1,1,2,2,0,4,1,2,0,0,2,3,2,2,2,3,3,3,3,3,3,3,2,3,3,2,3,3,3,3,3,3,3
+05/03/2015 17:34,female,india,City,16,Professional school,Computer Science,Computer Science,Full time,2,Computer Science,1,5,20,2,0,0,0,2,4,2,3,1,1,1,2,1,3,3,2,2,3,3,2,2,3,0,3,3,1,1,1,1,2,2,2,2
+05/03/2015 17:34,female,US,Suburb,20,PhD,Biotech,researcher,Full time,2,Biotech,2,11;7,5,2,1,2,2,1,2,1,1,0,0,2,3,3,3,3,3,3,2,2,2,3,3,3,3,3,2,3,3,3,2,2,2,2
+05/03/2015 17:34,female,United States,Suburb,16,University: Bachelor's degree,SOcial WOrk,Homemaker,Do not working,2,SOcial WOrk,3,6;4;2,15,2,0,2,1,1,5,1,2,0,0,1,2,3,3,3,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3
+05/03/2015 17:34,male,United States,Suburb,13,Secondary school,General Education,Retail,Patial,0,General Education,0,0,15,2,0,2,1,2,2,2,1,0,1,2,2,3,3,3,2,2,2,2,3,3,2,2,2,2,2,3,3,3,2,2,2,3
+05/03/2015 17:34,male,USA,Suburb,17,University: Bachelor's degree,Business,Police Dispatch,Full time,2,Business,2,6; 11,64,2,0,1,1,1,2,1,3,0,0,2,2,2,2,1,2,2,2,1,2,2,3,2,2,2,2,2,2,2,3,2,2,2
+05/03/2015 17:35,male,india,City,16,University: Bachelor's degree,Computer Science,engineer,Full time,2,Computer Science,2,2;5,15,1,0,2,0,1,5,2,4,0,0,1,2,3,3,2,2,2,1,1,1,1,2,1,2,2,0,1,1,0,2,1,1,0
+05/03/2015 17:35,female,US,Suburb,16,University: Bachelor's degree,Science,Service Professional,Patial,2,Science,3,10;7;3,10,2,0,1,1,1,2,1,5,1,0,1,3,1,2,3,2,3,2,2,2,2,2,2,2,2,2,1,2,0,3,2,2,3
+05/03/2015 17:35,male,United States,City,16,University: Bachelor's degree,Eco0mics,Supervisor,Full time,2,Eco0mics,1,19,15,2,0,1,1,1,1,1,1,1,0,2,2,3,1,2,2,2,1,1,2,2,2,3,3,3,2,3,3,3,1,2,3,2
+05/03/2015 17:35,male,usa,City,16,University: Bachelor's degree,marketing,marketing,Full time,0,marketing,0,0,20,1,1,1,1,1,3,2,2,1,1,2,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,3,3
+05/03/2015 17:35,female,United States,Suburb,15,Professional school,Graphic Design,Freelance Writer,Full time,0,Graphic Design,0,0,5,1,1,2,2,0,1,0,2,0,0,2,3,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+05/03/2015 17:36,male,USA,Suburb,18,Master's degree,Music Education,Teacher,Full time,0,Music Education,0,0,25,2,0,0,0,2,30,2,3,0,1,1,2,2,3,2,2,2,2,2,2,2,3,2,2,3,2,3,2,3,2,3,2,2
+05/03/2015 17:36,female,United States,City,16,University: Bachelor's degree,Accounting,Housewife,Do not working,2,Accounting,2,"25, 35",30,2,1,2,1,1,2,2,0,0,0,2,2,2,2,2,3,3,2,2,3,3,3,3,3,3,2,2,3,2,3,2,3,3
+05/03/2015 17:36,female,USA,Village,13,Secondary school,general studies,insurance,Do not working,0,general studies,2,"20, 23",35,2,0,2,0,1,3,2,3,0,1,1,2,0,2,2,3,3,1,1,3,3,3,3,3,3,2,3,2,2,3,3,3,3
+05/03/2015 17:36,male,USA,City,14,University: Bachelor's degree,Philosophy,Teaching Assistant,Patial,0,Philosophy,0,0,5,1,1,2,2,0,1,0,1,0,1,2,3,3,2,1,1,1,0,3,0,2,3,2,2,3,2,1,3,2,3,3,2,3
+05/03/2015 17:36,female,india,City,16,Professional school,Computer Science,Computer Science,Full time,2,Computer Science,1,6,20,2,0,0,0,2,4,2,2,1,1,0,2,1,2,2,3,3,3,3,3,2,2,1,3,3,0,0,1,1,2,2,2,2
+05/03/2015 17:37,female,USA,City,10,Master's degree,Business,Banker,Full time,2,Business,1,2,20,2,0,0,0,1,12,2,2,0,1,1,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3
+05/03/2015 17:37,female,United States,City,12,Secondary school,Liberal Arts,Administrative Assistant,Patial,2,Liberal Arts,1,8,16,2,0,1,1,0,4,2,1,1,1,1,3,3,2,2,2,2,1,2,2,2,2,3,2,2,1,3,3,3,2,2,2,3
+05/03/2015 17:37,male,United States,Suburb,16,Secondary school,Computer Science,Student,Do not working,0,Computer Science,0,0,20,2,0,2,2,2,3,2,2,0,1,2,3,3,3,2,3,3,0,2,3,3,3,3,3,3,2,3,3,3,2,2,3,3
+05/03/2015 17:37,female,United States,City,16,University: Bachelor's degree,Business Management,IT,Full time,0,Business Management,0,0,10,2,0,0,1,2,5,2,3,1,1,2,3,2,3,3,3,3,2,1,3,3,3,1,3,3,0,3,3,3,3,3,3,3
+05/03/2015 17:37,male,USA,Suburb,16,Professional school,Computer Science,Programmer,Full time,2,Computer Science,3,18;16;16,10,2,1,2,2,1,2,1,1,0,0,2,3,2,3,2,3,3,2,2,2,3,2,2,3,3,2,2,2,2,3,3,3,3
+05/03/2015 17:37,female,Malta,City,16,University: Bachelor's degree,Arts,Graphic Designer,Patial,0,Arts,0,,20,2,1,2,1,1,30,2,3,1,1,2,2,3,2,2,2,2,2,2,2,2,2,3,2,2,3,3,3,3,2,2,2,2
+05/03/2015 17:37,male,USA,Suburb,20,PhD,Law,Lawyer,Full time,2,Law,2,"2,4",4,0,1,2,1,0,2,1,2,0,0,2,2,2,1,2,2,1,1,1,2,1,1,2,1,2,2,2,2,2,2,1,1,2
+05/03/2015 17:37,female,USA,Suburb,16,University: Bachelor's degree,Business,Sales,Full time,2,Business,0,,1,2,1,2,1,1,3,0,1,0,0,2,2,0,3,3,2,2,1,2,2,2,2,2,2,2,0,2,1,1,2,2,3,3
+05/03/2015 17:38,male,United States,Suburb,16,University: Bachelor's degree,Computer Science,Unemployed,Do not working,0,Computer Science,0,0,1,0,0,2,1,1,0,0,0,0,1,2,1,2,2,2,2,2,0,2,1,2,2,2,2,2,1,2,2,2,1,2,2,2
+05/03/2015 17:39,male,usa,City,12,Secondary school,NA,mturk,Full time,0,NA,0,0,5,0,0,1,1,1,1,0,1,0,0,2,2,2,2,1,3,2,1,1,3,3,2,2,3,3,0,3,3,3,2,2,2,3
+05/03/2015 17:39,male,23,City,17,University: Bachelor's degree,Nursing,Nurse,Full time,2,Nursing,0,0,4,2,0,2,0,1,2,2,2,1,1,2,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,2,3,3,3,3
+05/03/2015 17:40,female,INDIA,City,23,Master's degree,ECO0MICS,ECO0MIST,Full time,2,ECO0MICS,2,"4, 1",15,2,0,0,0,1,10,0,4,1,1,0,2,2,3,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+05/03/2015 17:41,female,United States,Village,16,University: Bachelor's degree,Music education,teacher,Full time,0,Music education,0,,100,2,0,2,1,1,3,1,3,0,1,1,3,2,3,2,3,2,2,2,3,3,3,2,3,3,2,2,3,2,3,2,3,3
+05/03/2015 17:41,male,USA,Suburb,18,University: Bachelor's degree,Law,Finance,Full time,2,Law,2,2;8,10,2,0,1,1,1,3,2,2,1,1,1,3,3,3,3,3,3,3,3,3,3,3,0,3,3,3,3,3,3,3,3,3,3
+05/03/2015 17:41,male,India,City,17,Master's degree,Geography,Freelancer,Full time,2,Geography,2,"7, 4",34,2,0,0,0,2,4,2,4,0,1,1,2,2,2,3,3,2,1,2,1,2,2,0,2,2,2,1,1,1,1,3,2,1
+05/03/2015 17:43,female,Usa,Suburb,12,Secondary school,General,Retail clerk,Full time,2,General,2,"11,6",15,2,0,0,0,0,5,2,1,1,1,0,3,2,1,2,3,3,2,2,3,2,2,1,1,3,3,3,3,3,3,3,3,3
+05/03/2015 17:44,male,USA,Suburb,15,Professional school,applied science,lab tech,Full time,2,applied science,3,"10, 12, 15",18,2,0,1,2,1,3,1,1,1,0,2,3,2,3,3,2,2,0,1,3,3,3,3,3,3,1,2,3,2,1,1,2,2
+05/03/2015 17:47,male,usa,City,2,Professional school,IT,Retail,Full time,0,IT,0,0,10,2,0,1,0,2,5,2,1,0,0,1,3,2,3,1,3,3,2,3,3,3,3,0,3,3,2,2,2,2,2,2,2,2
+05/03/2015 17:47,male,USA,City,5,Master's degree,MBA,progarmmer,Full time,2,MBA,2,3,10,2,0,0,0,2,5,2,3,1,1,0,3,1,3,2,3,2,3,2,3,2,3,1,3,3,0,0,1,1,2,3,2,3
+05/03/2015 17:47,female,USA,Village,12,Secondary school,n/a,Data,Full time,2,n/a,2,11;10,9,2,0,2,1,1,4,2,5,0,1,1,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+05/03/2015 17:49,male,USA,City,18,University: Bachelor's degree,Political Science,Tech Training Coordinator,Full time,2,Political Science,2,"5,1",6,1,1,2,1,1,1,2,2,1,1,2,3,2,2,1,3,2,1,2,2,1,3,1,3,2,1,3,2,2,3,2,2,2
+05/03/2015 17:50,female,US,City,16,University: Bachelor's degree,informatic,household,Do not working,2,informatic,3,9 mounths; 4 years; 4 years,12,2,0,0,1,1,10,1,1,1,1,1,2,2,3,1,1,1,2,0,1,2,1,1,2,2,1,1,2,2,3,3,3,3
+05/03/2015 17:54,male,India,City,19,Master's degree,Finance,Manager,Full time,2,Finance,1,2,12,2,0,2,1,0,5,1,2,1,1,2,3,2,3,2,3,3,3,2,2,3,3,3,3,3,3,3,3,2,3,3,2,3
+05/03/2015 17:55,female,usa,Suburb,16,University: Bachelor's degree,literature,tutor,Patial,0,literature,0,0,1,0,0,2,2,0,1,0,0,0,1,2,2,2,2,1,2,1,0,1,3,3,3,2,3,3,2,2,2,2,2,1,3,2
+05/03/2015 18:01,male,USA,City,18,Master's degree,Eco0mics,Analyst,Do not working,0,Eco0mics,0,0,20,1,0,2,1,1,2,1,2,0,0,2,1,2,1,1,2,0,1,1,1,2,2,0,2,2,0,2,1,1,1,1,1,0
+05/03/2015 18:01,female,United States,City,13,Professional school,Computer Science,Transcriptionist,Full time,2,Computer Science,3,"4, 8, 10",5,2,0,2,2,0,1,0,1,0,0,2,3,1,3,2,3,3,3,2,3,3,3,2,3,3,3,3,3,3,3,3,3,3
+05/03/2015 18:02,female,USA,City,13,Secondary school,general,administrative assistant,Full time,2,general,3,"12, 9, 7",15,2,0,2,1,1,2,1,2,0,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+05/03/2015 18:12,female,USA,Suburb,18,University: Bachelor's degree,business,office manager,Full time,2,business,0,0,10,1,0,0,1,2,2,2,3,1,1,2,2,2,2,3,2,2,3,2,3,3,2,1,3,2,1,2,2,2,3,3,2,3
+05/03/2015 18:14,male,usa,Suburb,13,Professional school,undecided,photo editor,Full time,0,undecided,0,0,1,0,0,2,1,1,6,0,0,0,1,1,2,3,1,2,1,2,1,2,2,1,2,1,1,1,2,3,3,3,2,2,2,1
+05/03/2015 18:30,male,USA,Suburb,15,University: Bachelor's degree,Accounting,Writer,Full time,2,Accounting,0,0,15,1,0,1,1,1,1,0,1,1,1,2,3,3,3,3,3,3,3,3,3,3,3,0,3,3,3,3,3,3,3,3,3,3
+05/03/2015 18:35,male,USA,City,12,Secondary school,NA,Retail,Full time,2,NA,0,0,3,2,0,2,1,2,1,2,3,0,0,2,2,1,3,2,1,1,1,1,1,1,2,2,2,2,2,0,1,1,1,1,1,1
+05/03/2015 18:39,female,usa,Other,13,Secondary school,Physics,Education,Do not working,2,Physics,1,14,25,2,1,2,0,1,8,1,2,0,0,1,2,3,1,1,3,3,3,3,3,3,3,3,2,2,3,2,2,3,2,3,3,3
+05/03/2015 18:45,male,USA,City,12,Secondary school,N/A,N/A,Do not working,0,N/A,0,0,10,2,0,1,1,1,5,1,2,0,1,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,3,2,2,2,2,2
+05/06/2015 13:10,male,USA,Suburb,18,Master's degree,History,captain,Full time,2,History,0,0,12,1,1,2,2,1,1,0,1,0,1,2,2,2,3,2,3,2,3,2,3,3,3,3,3,3,3,3,3,2,2,2,2,2
+05/06/2015 13:10,female,USA,Suburb,13,Secondary school,Artist,Artist,Patial,2,Artist,0,0,7,2,0,0,0,1,3,1,3,1,1,1,1,0,1,1,0,2,0,1,1,0,1,1,1,1,0,0,0,1,0,1,2,1
+05/06/2015 13:11,male,india,City,16,Professional school,Computer Science,network admin,Full time,2,Computer Science,1,5,30,2,0,1,2,0,40,2,3,1,1,2,1,3,2,2,1,2,2,2,2,2,2,1,2,2,1,1,1,1,2,2,2,2
+05/06/2015 13:11,male,usa,Suburb,17,Master's degree,engineering,engineer,Full time,2,engineering,1,9,3,1,1,2,2,1,1,0,1,0,0,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,2,2,3,3
+05/06/2015 13:11,male,USA,Suburb,16,University: Bachelor's degree,Eco0mics,Accounting,Full time,0,Eco0mics,0,0,20,2,0,0,0,2,5,2,2,1,1,1,2,2,3,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+05/06/2015 13:13,female,India,City,18,University: Bachelor's degree,Commerce,Accounts,Full time,2,Commerce,2,"2"";""5",5,1,1,2,1,1,7,1,1,1,0,1,2,2,2,2,3,3,3,2,3,3,3,2,2,3,2,2,3,2,2,3,2,2
+05/06/2015 13:13,male,usa,City,4,Master's degree,Computer Science,teacher,Full time,2,Computer Science,1,8,6,2,0,0,0,2,5,2,2,1,1,2,1,1,2,1,0,1,2,2,1,1,0,2,2,2,0,0,1,1,1,1,1,0
+05/06/2015 13:14,male,united states,City,15,University: Bachelor's degree,business,umemployed,Do not working,0,business,0,0,2,1,1,1,1,0,4,2,1,0,1,2,3,2,1,1,3,2,0,2,3,3,3,2,3,3,2,2,2,1,1,1,2,2
+05/06/2015 13:14,male,India,City,16,University: Bachelor's degree,Computer Sciences,Engineer,Full time,2,Computer Sciences,0,0,30,2,0,1,1,0,20,2,5,1,1,0,3,1,2,2,1,1,3,3,3,2,2,0,3,3,1,2,1,1,3,3,3,2
+05/06/2015 13:14,male,India,Suburb,16,University: Bachelor's degree,Electronics,System Administrator,Full time,2,Electronics,1,2,40,2,0,1,1,1,10,2,3,1,1,1,3,2,3,3,3,3,3,3,3,2,2,1,3,3,2,3,2,2,3,2,3,3
+05/06/2015 13:15,male,USA,Other,16,University: Bachelor's degree,HRIM,unemployed,Do not working,0,HRIM,0,,10,1,0,1,1,0,2,0,0,1,0,2,2,3,1,2,3,3,3,2,3,3,3,3,3,3,3,3,3,3,2,2,3,2
+05/06/2015 13:15,male,India,City,22,University: Bachelor's degree,Arts,Manager,Full time,2,Arts,2,"29,35",22,2,1,1,1,2,3,2,3,1,1,1,2,2,3,2,2,3,2,2,2,2,2,2,2,2,2,1,2,1,2,2,2,2
+05/06/2015 13:15,male,INDIA,City,18,University: Bachelor's degree,BUSSINESS ADMINISTRATION,EDUCATION COUNCILLOR,Full time,2,BUSSINESS ADMINISTRATION,2,2,3,2,0,1,1,0,15,2,1,1,1,1,3,2,3,2,3,3,3,2,2,3,3,2,3,3,2,2,2,2,3,3,2,3
+05/06/2015 13:15,male,USA,Suburb,16,University: Bachelor's degree,Biology,Counselor Aide,Full time,2,Biology,0,0,15,1,0,0,1,1,20,2,1,0,1,2,2,2,3,2,2,2,3,2,2,2,2,1,2,2,1,2,2,2,2,2,2,2
+05/06/2015 13:16,female,USA,Suburb,16,University: Bachelor's degree,Business,Finance,Full time,2,Business,0,0,12,2,0,1,1,1,3,1,4,1,1,1,3,3,2,2,3,3,2,2,3,3,3,3,3,3,2,3,3,2,2,2,3,2
+05/06/2015 13:16,female,US,Suburb,16,University: Bachelor's degree,NURSING,NURSE,Full time,2,NURSING,0,0,22,2,0,1,0,1,40,2,4,1,1,0,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3
+05/06/2015 13:17,male,India,Village,16,University: Bachelor's degree,B.E,Health care,Full time,2,B.E,0,0,15,2,0,1,1,2,3,2,4,0,1,1,3,2,3,3,2,3,2,3,3,2,3,0,3,2,0,3,3,2,2,3,3,3
+05/06/2015 13:17,female,USA,City,19,Master's degree,Psychology,therapist,Full time,2,Psychology,1,2,20,2,0,1,1,2,3,2,5,1,1,1,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,2,2,2,2
+05/06/2015 13:19,male,india,City,18,University: Bachelor's degree,BA sociology,Business,Full time,2,BA sociology,1,1,66,2,0,0,0,2,4,2,2,0,1,1,3,2,3,3,2,3,3,3,3,2,3,0,2,3,2,3,2,2,3,2,3,3
+05/06/2015 13:20,male,Russia,City,16,Master's degree,Engineering,Programmer,Full time,2,Engineering,1,1,10,1,1,2,2,1,5,2,2,0,0,2,3,3,3,2,3,3,2,2,2,3,3,3,3,3,3,3,3,3,2,2,3,3
+05/06/2015 13:21,female,USA,City,18,University: Bachelor's degree,Electrical Engineering,Network Engineer,Patial,2,Electrical Engineering,1,18,30,1,0,1,1,2,1,1,3,0,1,1,3,3,2,2,3,3,3,2,3,3,3,3,3,3,3,3,3,3,2,3,3,3
+05/06/2015 13:22,male,America,Village,15,University: Bachelor's degree,commerce,loyer,Full time,2,commerce,1,1,27,2,0,0,0,2,20,2,4,1,1,0,3,1,1,1,2,3,2,1,0,1,2,0,2,1,3,2,1,0,2,1,0,1
+05/06/2015 13:22,female,USA,City,14,Secondary school,Psychology,student,Do not working,0,Psychology,0,0,4,2,1,0,0,1,1,1,1,1,1,2,2,3,1,2,2,2,2,2,2,2,2,3,2,2,2,2,3,3,2,2,2,2
+05/06/2015 13:22,male,India,Village,18,Master's degree,Computer Science,IT System Administration,Full time,0,Computer Science,0,0,20,2,0,0,0,1,5,2,3,1,1,1,3,3,3,3,3,2,2,3,2,3,2,2,2,3,3,3,3,3,3,3,3,3
+05/06/2015 13:25,male,india,City,19,Master's degree,finance,manager,Full time,0,finance,0,0,3,2,0,0,0,2,5,2,3,1,1,2,2,3,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,2,1,2,2,2
+05/06/2015 13:25,male,us,City,17,Master's degree,0,supervisor,Patial,2,0,1,1,2,1,0,0,0,2,5,2,2,1,1,1,3,1,2,2,2,2,3,2,2,3,2,0,2,3,1,1,1,0,3,2,2,2
+05/06/2015 13:25,male,United States,City,17,Master's degree,Administration,Admin Assistant Manager,Full time,2,Administration,1,1,11,2,0,2,1,1,5,2,4,1,1,0,3,3,3,3,3,3,3,3,3,3,3,1,3,3,0,3,3,3,3,3,3,3
+05/06/2015 13:25,male,India,City,16,University: Bachelor's degree,Computer Sciences,Computer Science engineer,Full time,0,Computer Sciences,0,0,5,2,0,0,0,1,4,2,1,1,1,1,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+05/06/2015 13:27,male,India,City,15,University: Bachelor's degree,Commerce,Accountant,Full time,2,Commerce,1,1,15,2,0,2,1,0,3,2,2,1,1,1,3,3,2,3,2,2,3,2,3,2,3,2,3,3,3,3,3,3,2,3,2,3
+05/06/2015 13:28,female,indiaa,Village,13,University: Bachelor's degree,english,online work,Patial,2,english,2,5to 1,3000,2,0,0,0,2,10,2,0,1,1,0,2,2,2,2,2,2,2,2,2,2,2,1,2,2,1,1,1,1,2,2,2,2
+05/06/2015 13:28,male,india,Village,17,University: Bachelor's degree,politics,employee,Patial,0,politics,0,0,60,2,0,0,0,2,8,1,4,1,1,0,3,2,1,1,2,0,0,2,2,2,3,1,2,2,2,2,1,2,2,1,1,1
+05/06/2015 13:30,female,India,City,21,Master's degree,Computer Science,Computer Science engineer,Full time,2,Computer Science,1,1,15,2,0,0,0,1,5,2,4,1,1,1,3,2,2,2,2,3,2,2,2,3,2,2,2,3,2,3,2,2,3,2,3,2
+05/06/2015 13:31,male,us,City,16,University: Bachelor's degree,Engineering,Student,Do not working,0,Engineering,0,0,6,2,0,0,0,2,3,1,1,1,1,1,2,3,2,2,1,2,3,2,1,2,2,2,2,2,2,2,1,2,1,0,1,1
+05/06/2015 13:32,male,USA,Suburb,8,Professional school,Medicine,Physician,Full time,2,Medicine,1,1,5,2,1,1,2,1,1,2,1,0,0,2,3,2,3,2,2,2,1,1,1,3,3,1,3,3,2,2,3,3,3,2,2,3
+05/06/2015 13:33,male,United States,Other,15,Professional school,Culinary arts,Chef,Full time,2,Culinary arts,2,"2,10",10,1,1,2,1,1,3,1,4,0,1,1,3,2,3,2,3,3,2,2,2,3,3,3,3,3,3,3,3,3,3,2,3,3
+05/06/2015 13:34,male,USA,City,17,University: Bachelor's degree,Marketing,Marketing,Full time,2,Marketing,0,0,118,2,0,2,1,2,40,2,3,1,1,2,3,3,0,0,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3
+05/06/2015 13:37,female,India,Suburb,21,Master's degree,Pharmacy,Pharmacist,Full time,2,Pharmacy,0,0,30,1,0,1,0,0,6,1,3,1,1,0,3,2,3,2,1,2,3,2,3,3,1,2,3,3,0,2,1,2,3,3,3,3
+05/06/2015 13:38,male,usa,City,16,University: Bachelor's degree,art,writer,Full time,0,art,0,0,19,2,0,1,0,2,2,2,2,1,1,1,3,3,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2
+05/06/2015 13:38,male,indian,City,16,Master's degree,Computer Sciences,teacher,Full time,2,Computer Sciences,0,0,20,2,0,0,0,2,4,2,4,1,1,1,1,1,3,3,2,3,3,3,3,3,3,0,3,3,3,1,3,3,3,3,3,3
+05/06/2015 13:41,male,United States,City,12,Secondary school,High School,Hotel Clerk,Full time,0,High School,0,0,20,2,0,1,1,1,2,2,3,1,1,0,2,2,3,2,2,2,0,2,3,2,3,2,2,2,2,2,2,1,2,2,2,2
+05/06/2015 13:44,male,India,City,18,University: Bachelor's degree,Information Tech0logy,Web developer,Full time,0,Information Tech0logy,0,0,5,1,0,1,1,1,3,1,2,1,1,1,1,3,1,2,2,1,1,2,2,1,1,2,1,1,1,0,0,0,2,1,2,1
+05/06/2015 13:46,male,India,Suburb,18,Master's degree,M.A.,Accounting,Full time,2,M.A.,2,"12, 9",3,2,1,2,1,1,3,0,1,1,1,2,2,2,3,2,3,3,3,2,2,3,3,2,3,2,2,2,3,2,2,2,3,3
+05/06/2015 13:46,male,india,Suburb,18,Master's degree,Computer Science,business,Full time,2,Computer Science,1,5,3,1,0,2,2,1,3,2,1,1,0,1,2,2,0,2,1,2,1,2,3,0,2,1,3,1,1,1,0,3,1,2,2,2
+05/06/2015 13:47,female,United States,Suburb,14,Professional school,Business,Unemployed,Do not working,2,Business,0,0,1,1,1,2,2,0,1,0,0,0,0,2,2,2,2,1,3,2,1,1,2,2,2,2,3,2,0,0,1,0,1,1,3,2
+05/06/2015 13:48,male,USA,Other,12,Secondary school,NA,farmer,Full time,2,NA,0,0,1,0,1,2,2,1,1,0,0,0,0,2,3,2,2,2,3,3,2,2,3,3,3,1,3,3,2,2,3,2,2,3,3,3
+05/06/2015 13:49,female,INDIA,City,17,Master's degree,Arts,Private Job,Full time,2,Arts,1,11,50,2,0,0,1,2,40,2,4,0,0,1,3,3,2,2,2,3,3,2,2,3,2,3,2,3,3,3,3,3,2,3,2,2
+05/06/2015 13:51,male,india,City,16,University: Bachelor's degree,bsc,sales man,Full time,2,bsc,1,0,40,2,0,0,1,1,5,2,2,1,1,2,1,1,1,1,1,0,1,2,1,0,1,1,1,0,2,1,2,2,1,0,1,0
+05/06/2015 13:51,male,India,City,19,Master's degree,Business Administration,Executive,Patial,2,Business Administration,1,1,30,2,0,0,0,2,20,2,3,1,1,0,3,1,1,2,1,1,1,2,1,0,1,2,2,1,1,2,2,1,2,1,1,1
+05/06/2015 13:52,male,USA,City,16,University: Bachelor's degree,journalism,Editor,Full time,0,journalism,0,0,30,1,0,1,1,2,3,1,6,1,1,1,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2
+05/06/2015 13:53,male,United States,City,22,University: Bachelor's degree,Mathematics,Lecturer,Full time,2,Mathematics,1,2,2,2,0,2,1,1,5,0,3,0,0,1,3,1,3,1,2,2,2,3,2,2,1,1,2,2,0,3,2,2,3,1,2,3
+05/06/2015 13:54,male,India,City,15,Master's degree,Computer Science,System Engineer,Full time,0,Computer Science,0,0,5,2,0,1,2,0,8,2,2,1,1,1,2,2,0,1,2,1,3,1,2,1,2,0,2,1,1,2,1,1,3,2,1,2
+05/06/2015 13:57,male,usa,City,16,University: Bachelor's degree,philosophy,technical support,Full time,0,philosophy,0,0,40,2,0,2,2,1,2,2,2,1,0,2,2,2,2,2,1,1,0,1,1,2,2,2,1,1,1,2,1,1,1,1,1,1
+05/06/2015 13:59,male,USA,City,14,Professional school,Computer Science Networking,Computer Science Technician,Full time,0,Computer Science Networking,0,0,10,2,0,1,0,2,2,1,2,1,1,2,2,3,2,2,2,2,0,2,2,2,3,3,2,3,2,2,3,3,2,2,2,2
+05/06/2015 14:00,male,USA,City,14,Secondary school,Journalism,waiter,Patial,0,Journalism,0,0,18,2,0,0,0,1,5,2,2,1,1,1,2,2,2,2,3,2,0,2,2,2,3,2,2,3,2,2,2,1,2,1,2,1
+05/06/2015 14:01,female,USA,Suburb,19,Master's degree,Sociology,Database Administrator,Full time,2,Sociology,1,2 months,10,2,0,1,1,1,6,2,3,1,1,2,2,2,3,3,3,3,3,3,3,2,3,2,2,3,2,2,3,3,2,3,3,3
+05/06/2015 14:01,female,INDIA,City,18,University: Bachelor's degree,BE,Computer Science,Full time,0,BE,0,0,5,0,0,1,1,2,30,1,4,1,0,0,2,2,2,3,1,2,2,1,2,3,2,2,1,0,2,3,2,1,2,3,2,2
+05/06/2015 14:03,male,USA,Suburb,16,University: Bachelor's degree,Biomedical engineering,Research engineer,Full time,2,Biomedical engineering,1,1,6,2,0,2,1,1,12,2,1,0,1,2,3,2,2,3,3,3,2,2,2,3,3,3,2,2,2,2,2,2,2,2,2,3
+05/06/2015 14:04,male,United States,Other,16,University: Bachelor's degree,Biology,Machinist,Full time,0,Biology,0,0,7,1,0,2,1,0,1,1,1,1,0,2,2,1,2,1,2,2,2,1,1,2,3,1,2,3,1,1,0,0,1,1,2,1
+05/06/2015 14:06,male,USA,City,13,Professional school,BUSINESS MANAGEMENT,RETAIL,Full time,0,BUSINESS MANAGEMENT,0,0,50,1,0,2,1,1,5,0,3,0,0,0,2,2,2,1,1,1,2,2,1,1,2,1,1,1,0,0,2,3,0,1,1,2
+05/06/2015 14:07,male,India,City,24,Master's degree,Finance,Finance Manager,Full time,2,Finance,0,0,6,2,0,1,1,1,2,1,2,1,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3
+05/06/2015 14:07,male,United States,Suburb,14,Professional school,management,construction,Full time,0,management,0,0,20,2,0,1,2,1,4,1,3,1,1,2,3,3,3,3,3,3,3,3,3,3,3,2,3,3,2,3,3,3,3,3,3,3
+05/06/2015 14:09,male,India,City,18,Master's degree,Engineering,Self Employed,Full time,0,Engineering,0,0,8,2,0,1,1,0,5,2,2,1,1,1,3,1,2,2,2,2,2,2,2,2,2,1,2,2,2,1,2,0,2,2,2,2
+05/06/2015 14:10,male,INDIA,Suburb,15,Professional school,Computer Science,Techinal Head,Full time,0,Computer Science,0,0,5,2,0,0,0,1,4,0,4,1,1,2,3,3,2,2,2,2,1,2,2,1,2,2,2,3,3,2,3,3,3,3,3,3
+05/06/2015 14:11,male,usa,City,17,Professional school,engineering/business,administrator,Full time,0,engineering/business,0,0,24,2,0,1,0,2,10,1,4,1,1,0,2,2,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3
+05/06/2015 14:12,male,India,City,18,University: Bachelor's degree,Computer Science,Computer Science engineer,Full time,0,Computer Science,0,0,45,2,0,1,0,2,5,2,3,0,0,0,1,3,1,2,1,2,1,2,1,1,1,2,1,2,1,1,1,2,2,1,2,2
+05/06/2015 14:13,female,INDIA,City,26,Master's degree,Computer Science and Information Tech0logy,Computer Science Professional,Full time,2,Computer Science and Information Tech0logy,1,6,9,2,0,1,0,2,3,2,3,0,1,1,2,1,3,3,3,3,2,2,3,3,3,1,3,2,0,0,0,0,2,2,2,2
+05/06/2015 14:14,male,India,City,20,Master's degree,Eco0mics,Production Manager,Full time,2,Eco0mics,1,2,12,1,0,0,0,2,5,2,3,1,1,0,2,2,2,2,3,2,1,1,2,2,3,1,2,1,3,3,2,3,1,1,2,1
+05/06/2015 14:24,female,india,City,6,Master's degree,0,online job,Full time,2,0,1,6,3,1,0,0,1,2,5,2,3,1,1,0,3,1,1,0,1,2,3,2,1,0,1,1,3,2,2,3,2,1,3,2,1,0
+05/06/2015 14:24,male,USA,Suburb,17,University: Bachelor's degree,psychology/biology,physician assistant,Full time,2,psychology/biology,0,0,14,2,1,2,2,0,1,2,0,1,0,2,1,1,3,3,3,2,2,2,3,3,3,2,3,3,2,2,3,2,3,2,3,3
+05/06/2015 14:25,male,india,Suburb,19,University: Bachelor's degree,arts,accountant,Full time,0,arts,0,0,12,2,0,1,0,2,6,2,3,1,1,1,3,2,3,3,3,3,2,3,3,3,3,2,3,3,2,3,3,3,2,3,3,3
+05/06/2015 14:27,male,INDIA,City,22,University: Bachelor's degree,B.TECH,ENGINEER,Full time,0,B.TECH,0,0,5,2,0,2,0,2,15,0,2,1,1,2,3,3,3,2,1,2,2,2,1,2,2,1,1,2,1,3,3,3,3,1,0,0
+05/06/2015 14:28,male,India,Suburb,21,Master's degree,MBA,Avaiation,Full time,2,MBA,2,"10, 15",4,2,0,1,2,0,5,2,1,1,0,2,3,3,2,2,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3
+05/06/2015 14:30,male,USA,Suburb,18,University: Bachelor's degree,Electrical Engineering,IT,Full time,0,Electrical Engineering,1,11,1,1,0,2,1,1,10,2,1,1,0,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+05/06/2015 14:30,male,India,City,18,University: Bachelor's degree,Computer Science,Computer Science Engineer,Full time,2,Computer Science,1,1,40,2,0,1,1,1,4,2,3,1,1,1,2,1,1,1,2,1,1,2,2,1,1,2,2,1,2,1,2,2,1,2,1,1
+05/06/2015 14:32,male,United States of America,Suburb,16,Master's degree,Biotech,Project Manager,Full time,2,Biotech,3,"5, 5, 8",30,2,0,2,0,2,4,2,3,1,1,1,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,2,3,2,3,3,3,3
+05/06/2015 14:35,male,United States,City,16,University: Bachelor's degree,Engineering,Technician,Full time,0,Engineering,0,0,10,2,0,0,1,1,7,0,5,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+05/06/2015 14:39,male,united states,Suburb,12,Secondary school,n/a,landscaping crew,Full time,0,n/a,0,0,24,2,0,1,2,0,15,1,1,1,1,2,3,3,3,3,3,1,0,2,3,3,3,3,2,2,3,3,3,3,2,2,3,3
+05/06/2015 14:40,female,India,City,24,Master's degree,Human Resource,Engineering,Full time,2,Human Resource,2,"""4"", ""2""",10,2,0,2,0,1,12,2,4,1,1,1,2,2,2,2,2,2,3,2,3,3,3,2,2,2,2,2,2,2,3,2,2,3
+05/06/2015 14:43,male,India,Suburb,16,University: Bachelor's degree,Engineering,Finance,Full time,2,Engineering,2,12; 18,3,2,0,2,2,2,5,0,2,1,1,2,3,3,3,2,3,2,2,2,3,3,3,3,3,3,3,3,3,2,2,2,3,2
+05/06/2015 14:44,male,italy,City,20,University: Bachelor's degree,architecture,student,Patial,0,architecture,0,0,57,1,1,2,1,1,4,1,4,1,1,1,2,2,2,3,3,3,3,2,2,2,3,1,3,2,1,2,2,2,3,2,3,2
+05/06/2015 14:44,female,India,City,19,Master's degree,Computer Science,Administrator,Full time,2,Computer Science,0,0,17,2,0,0,1,1,10,1,4,1,1,1,2,2,2,1,1,2,1,2,3,1,1,3,1,2,1,2,3,2,2,2,2,1
+05/06/2015 14:45,male,india,City,15,University: Bachelor's degree,Computer Science,Computer Science,Full time,2,Computer Science,1,3,2,2,0,0,1,2,5,2,2,1,1,0,3,1,2,3,2,3,2,2,3,2,2,0,2,2,0,0,1,1,3,3,2,2
+05/06/2015 14:48,male,India,City,22,Master's degree,Computer Science,System Administrator,Full time,0,Computer Science,1,1,10,1,0,2,2,1,8,2,4,0,0,0,3,2,3,3,3,3,3,3,3,2,2,2,2,3,2,1,2,2,2,2,3,2
+05/06/2015 14:48,male,USA,Suburb,16,University: Bachelor's degree,Computer Science,IT,Full time,0,Computer Science,0,0,20,1,0,2,1,1,1,1,2,0,0,2,3,3,3,3,3,3,0,2,2,3,3,3,3,3,3,3,3,3,2,2,2,3
+05/06/2015 14:49,female,india,City,16,University: Bachelor's degree,bba,manager,Full time,2,bba,0,0,10,1,0,0,1,1,10,2,2,1,1,1,2,0,2,2,3,2,2,2,2,1,2,1,1,2,1,1,1,2,2,2,2,2
+05/06/2015 14:51,male,United States,Suburb,18,Master's degree,mechanical engineering,mechanical engineer,Full time,2,mechanical engineering,4,6;4;2;1,14,2,1,2,1,2,30,2,3,1,1,2,3,3,1,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3
+05/06/2015 14:58,female,USA,Suburb,12,Secondary school,GENERAL,DATA ENTRY,Full time,0,GENERAL,1,5,5,2,1,2,1,0,2,2,1,0,0,2,2,2,2,2,2,3,3,2,3,3,3,3,2,2,3,2,2,2,2,3,3,3
+05/06/2015 14:59,male,india,Suburb,15,University: Bachelor's degree,commerce,fulltime turker,Full time,2,commerce,2,"""4"" , ""1""",3,2,0,1,2,1,1,2,1,0,1,1,1,1,2,2,2,2,2,3,2,2,2,0,2,2,1,2,2,2,2,2,2,2
+05/06/2015 15:05,male,India,City,12,Master's degree,Accountancy,Accountancy,Full time,2,Accountancy,0,0,25,2,0,1,0,1,20,2,3,1,1,1,1,1,1,3,2,1,0,3,2,3,2,1,3,3,0,2,0,1,3,2,2,1
+05/06/2015 15:06,female,white,Village,8,Elementary school,2,2,Full time,2,2,2,6,5,1,0,0,0,2,2,2,2,1,1,1,0,2,0,1,0,1,0,1,0,1,0,2,0,1,3,2,3,2,0,1,0,1
+05/06/2015 15:08,female,India,City,17,Master's degree,Psychology,Trainer,Full time,2,Psychology,2,"14,12",6,2,1,1,0,1,10,1,1,1,1,1,3,2,2,3,3,3,3,3,2,3,3,3,3,3,2,2,2,2,3,3,3,3
+05/06/2015 15:09,female,United States,City,19,Master's degree,master,Computer Science,Full time,2,master,1,4,10,2,0,0,0,2,5,2,4,1,1,2,3,3,2,2,2,2,2,3,2,2,2,0,2,1,1,3,3,3,1,3,2,3
+05/06/2015 15:09,male,India,City,19,University: Bachelor's degree,maths,Computer Science engineer,Full time,2,maths,1,4,14,2,0,1,1,1,7,1,4,1,1,0,2,2,2,2,2,2,2,2,1,2,2,1,1,2,1,2,2,2,2,2,2,2
+05/06/2015 15:11,female,USA,City,14,Secondary school,General,Night Auditor,Full time,2,General,1,2,10,2,0,1,1,1,5,1,2,1,1,1,2,2,3,1,3,3,2,2,2,2,2,2,1,2,1,1,2,1,2,2,2,2
+05/06/2015 15:11,male,US,Other,8,University: Bachelor's degree,Computer Science Engineering,Desktop Support,Full time,2,Computer Science Engineering,1,1,5,2,0,0,0,1,3,0,1,1,1,2,2,0,2,3,2,2,2,1,3,2,2,1,1,2,1,2,1,1,1,1,2,2
+05/06/2015 15:12,male,USA,Suburb,13,University: Bachelor's degree,Physics,Student,Full time,0,Physics,0,0,7,2,1,2,0,1,1,2,1,1,1,2,3,2,3,3,3,3,0,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3
+05/06/2015 15:15,male,USA,City,12,Secondary school,N/A,Construction,Patial,0,N/A,0,0,10,2,0,2,2,1,4,2,1,0,1,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,3,2,2,2,2,2
+05/06/2015 15:21,male,USA,City,16,Professional school,Engineering,Engineer,Full time,0,Engineering,0,,11,2,0,2,0,0,20,2,3,1,1,1,3,2,2,2,1,2,2,2,2,1,3,1,1,2,1,3,3,3,1,2,2,2
+05/06/2015 15:23,female,United States,Suburb,13,Secondary school,General,Dispatcher,Full time,2,General,4,11;12;14;16,7,2,1,2,1,1,4,0,1,1,1,2,2,2,3,2,2,2,3,2,2,2,3,3,3,2,3,3,3,3,2,3,2,2
+05/06/2015 15:30,male,USA,Suburb,14,Professional school,Computing,Professional Tarot Card Reader,Patial,2,Computing,1,11,10,1,0,1,1,1,2,2,4,0,1,1,2,1,3,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+05/06/2015 15:32,male,USA,Village,15,Professional school,Computer Science,web design,Full time,0,Computer Science,0,0,25,1,0,1,1,2,1,1,2,1,1,0,2,2,2,2,2,2,0,2,1,2,1,1,3,3,2,1,2,1,0,1,1,1
+05/06/2015 16:13,male,USA,City,12,Secondary school,General education,self employed,Patial,0,General education,0,0,8,2,1,2,1,2,5,1,1,0,0,2,2,3,2,2,3,1,0,2,2,3,3,3,2,2,2,2,3,1,3,2,3,2
+05/06/2015 16:30,female,USA,City,13,University: Bachelor's degree,history,self-employed,Patial,2,history,0,0,25,2,0,1,1,1,20,1,4,0,1,1,3,2,3,3,2,2,2,2,3,3,3,2,3,3,2,2,2,2,2,2,3,3
