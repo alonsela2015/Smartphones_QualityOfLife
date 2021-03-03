@@ -1,5 +1,5 @@
 # Smartphones_QualityOfLife
-This repository includes the code and data for the article: "Smartphones, Quality of Life and Society- A Hierarchical Clustering Examination." by Hila Chalutz Ben-Gal and Alon Sela.
+This repository includes the code and data for the article: "Smartphone User Behavior and Quality of Life: What Is the Role of Awareness?" by Alon Sela, Noam Rozenboim and Hila Chalutz Ben-Gal.
 
 Please locae the experiment data in a folder /data/ located in the folder where the R code is found. 
 Was tester in R version 3.6.1 (2019-07-05).
