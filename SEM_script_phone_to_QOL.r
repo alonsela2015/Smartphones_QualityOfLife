@@ -6,7 +6,7 @@ full.model2 <- 'competence =~ y2 + y12 + y15 + y16 + y17 + y18
    
                    unaware =~ x4+x3+x5+x6+x12+x11+x10
 
-                   aware =~ x2+x7+x8+x9
+                   aware =~ x1+x2+x7+x8+x9
  
                    y13 ~~ y14
  	                y4 ~~ y3
